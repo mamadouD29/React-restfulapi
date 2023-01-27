@@ -5,8 +5,8 @@ backend services to get data
 through RESTful APIs with the
 Axios library.
 
-#GitHub
+# GitHub
 
-#Rating App
+# Rating App
 
-#Products
+# Products
